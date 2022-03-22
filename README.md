@@ -1,5 +1,3 @@
-## This is a copy of the origial README
-
 # kdb+taq
 
 ## Changes to kdb+taq

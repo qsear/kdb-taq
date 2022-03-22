@@ -1,5 +1,3 @@
-/KDB SCRIPT CODE BASE - DO NOT DELETE
-
 /2020.06.12 support taq3.3 - add TradedOnMEMX and TradedOnMIAX to master
 /2020.04.15 support taq3.2 - add TradedOnLTSE to master
 /2017.10.20 support taq3.0b - maintaining old schema
